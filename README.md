@@ -8,7 +8,7 @@ book collection
 | 1    | [Effective-Java-中文版-第2版][001]                   |  Java               |
 | 2    | [Java 8实战][002] | Java |
 | 3    | [Redis开发与运维][003]       | Redis |
-| 4    | [Java SE 8 Edition][004]       | Java |
+| 4    | [Java SE 8 Edition][004]       | Java 8 |
 | 5    | [clean code][005]       | Code |
 | 6    | [代码整洁之道][006]       | Code |
 
