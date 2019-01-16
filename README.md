@@ -9,7 +9,7 @@ book collection
 | 2    | [Java 8实战][002] | Java |
 | 3    | [Redis开发与运维][003]       | Redis |
 | 4    | [Java SE 8 Edition][004]       | Java 8 |
-| 5    | [clean code][005]       | Code |
+| 5    | [clean code][005]       | Clean |
 | 6    | [代码整洁之道][006]       | Code |
 
 [001]: https://github.com/lingyejun/mybooks/blob/master/Effective-Java-%E4%B8%AD%E6%96%87%E7%89%88-%E7%AC%AC2%E7%89%88.pdf
