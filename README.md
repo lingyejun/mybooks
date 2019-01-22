@@ -12,6 +12,7 @@ book collection
 | 5    | [clean code][005]       | Clean |
 | 6    | [代码整洁之道][006]       | Code |
 | 7    | [图解设计模式][007]       | Design Pattern |
+| 8    | [HeadFirst设计模式][008]       | Design Pattern |
 
 [001]: https://github.com/lingyejun/mybooks/blob/master/Effective-Java-%E4%B8%AD%E6%96%87%E7%89%88-%E7%AC%AC2%E7%89%88.pdf
 [002]: https://github.com/lingyejun/mybooks/blob/master/Java%208%E5%AE%9E%E6%88%98.pdf
