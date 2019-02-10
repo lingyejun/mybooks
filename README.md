@@ -21,4 +21,4 @@ my collection book of backend developer
 [005]: https://github.com/lingyejun/mybooks/blob/master/clean%20code-%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93%20%E4%B8%AD%E6%96%87%E5%AE%8C%E6%95%B4%E7%89%88-%E5%B8%A6%E4%B9%A6%E7%AD%BE.pdf
 [006]: https://github.com/lingyejun/mybooks/blob/master/%E3%80%90%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93%E3%80%91%E4%B8%AD%E6%96%87%E7%89%88%2B%E9%AB%98%E6%B8%85%E6%89%AB%E6%8F%8F%2B%E7%9B%AE%E5%BD%95.pdf
 [007]: https://github.com/lingyejun/mybooks/
-[008]: https://github.com/lingyejun/mybooks/1
+[008]: https://github.com/lingyejun/mybooks/
